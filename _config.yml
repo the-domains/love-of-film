@@ -1,7 +1,7 @@
 name: 'Love of Film '
 favicon: null
-layout_spectrum: 0.46536638657562435
-typography_spectrum: 0.6646969323046505
+layout_spectrum: 0.4988
+typography_spectrum: 0.24007
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#797979'
     - '#b6b6b6'
   brandStrength: 1
-  lightness: 0.06716556870378554
-  saturation: 0.3757964491378516
-  rhythmicContrast: 0.8925736583769321
+  lightness: 0.9375
+  saturation: 0
+  rhythmicContrast: 0.5
 purpose: []
